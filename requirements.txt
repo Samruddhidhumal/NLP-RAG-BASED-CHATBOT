@@ -1,0 +1,11 @@
+flask>=3.0.0
+flask-cors>=4.0.0
+pypdf>=4.0.0
+sentence-transformers>=2.5.0
+chromadb>=0.4.24
+langchain>=0.1.10
+langchain-community>=0.0.25
+google-genai>=2.0.0
+google-generativeai>=0.8.0
+python-dotenv>=1.0.0
+tqdm>=4.66.0
